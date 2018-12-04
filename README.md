@@ -20,10 +20,10 @@ Meus aprendizados sobre "Code Review"
     Confiança da equipe.
     Tirar responsabilidade de uma só pessoa, evitar filas individuais de solução.
  
-<b>4 - Padronização nos código.</b>
+<b>4 - Padronização.</b>
  
     Projeto JAVA adicionar plugin "checkStyle" garantindo que todo os envolvidos respeite estilo comun de organização.
 
-<b>5 - Ferramenta de análise do código.</b>
+<b>5 - Ferramenta de análise. <m>SonarQube</m></b>
 
     O SonarQube é uma plataforma de código aberto desenvolvida pela SonarSource para inspeção contínua da qualidade do código para realizar revisões automáticas com análise estática de código para detectar bugs, códigos cheirosos e vulnerabilidades de segurança em mais de 20 idiomas de programação.
