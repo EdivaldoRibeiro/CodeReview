@@ -19,15 +19,24 @@ Meus aprendizados sobre `Code Review`
 - Aumento do senso da equipe.
 - Confiança da equipe.
 - Tirar responsabilidade de uma só pessoa, evitar filas individuais de solução.
- 
-#### 4 - Padronização.
+
+#### 4 - Trabalhar/Compartilhar container. (Mundo `docker`)
+
+- Container específico para cada tipo de banco de dados.
+- Container específico para cada webserver afim.
+- Container específico para cada tipo de micro-serviço bem definido.
+- Container específica para determinada regra de negócio.
+- Garantir bom funcionamento na ligação de todos estas interfaces.
+- Salvar imagens para posteriores instalações.
+
+#### 5 - Padronização.
  
 - Projeto JAVA adicionar plugin `checkStyle` garantindo que todos os envolvidos respeitem o estilo adotado na organização.
 - Nome **coerente** para classes, métodos e variáveis.
 - Tamanho **limitado** de linhas dos métodos, dividir classe muito grande em classes menores.
 - Nunca manter código comentado que ficou em desuso.
 
-#### 5 - Ferramenta de análise. _SonarQube_
+#### 6 - Ferramenta de análise. _SonarQube_
 
 - O SonarQube é uma plataforma de código aberto desenvolvida pela SonarSource para inspeção contínua da qualidade do código para realizar revisões automáticas com análise estática de código para detectar bugs, códigos cheirosos e vulnerabilidades de segurança em mais de 20 idiomas de programação.
     
@@ -35,3 +44,4 @@ Meus aprendizados sobre `Code Review`
 - Carregar imagem do SonarQube
     - docker pull sonarqube
     - Completar instalações.
+- Configurar `maven` para alimentar banco de dados do `_SonarQube_`.
