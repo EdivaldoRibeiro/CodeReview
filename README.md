@@ -11,11 +11,11 @@ Meus aprendizados sobre "Code Review"
     Automatização de trabalhos manuais diminuem falhas humanas.
     Testes automáticos para garantir que BUGs não sejam implantados.
     
-<b>3 - Consiste em cada contriuinte do time revisarem a solução apresentada antes de integrá-lo ao código base.</b>
+<b>3 - Cada contriuinte revisar a solução apresentada antes de integrá-lo ao código base.</b>
 
     Compartilhamento de conhecimento.
-    Criação de soluções alternativas para os problemas.
+    Criação de soluções alternativas para problemas.
     Aumento do senso da equipe.
     Confiança da equipe.
-    Tirar a responsabilidade de uma só pessoa, ajudando a evitar filas individuais.
+    Tirar responsabilidade de uma só pessoa, evitar filas individuais de solução.
  
