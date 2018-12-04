@@ -1,5 +1,5 @@
 # CodeReview
-Meus aprendizados sobre "Code Review"
+Meus aprendizados sobre `Code Review`
 
 #### 1 - Projeto responsabilidade de todos os colaboradores.
 
