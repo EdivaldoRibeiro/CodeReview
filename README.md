@@ -10,6 +10,7 @@ Meus aprendizados sobre "Code Review"
 
     Automatização de trabalhos manuais diminuem falhas humanas.
     Testes automáticos para garantir que BUGs não sejam implantados.
+    Rastrear, discutir, resolver situações onde houver "code smell".
     
 <b>3 - Cada contriuinte revisar a solução apresentada antes de integrá-lo ao código base.</b>
 
