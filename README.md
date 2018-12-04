@@ -24,6 +24,6 @@ Meus aprendizados sobre "Code Review"
  
     Projeto JAVA adicionar plugin "checkStyle" garantindo que todo os envolvidos respeite estilo comun de organização.
 
-<b>5 - Ferramenta de análise. <m>SonarQube</m></b>
+<b>5 - Ferramenta de análise. <em>SonarQube</em></b>
 
     O SonarQube é uma plataforma de código aberto desenvolvida pela SonarSource para inspeção contínua da qualidade do código para realizar revisões automáticas com análise estática de código para detectar bugs, códigos cheirosos e vulnerabilidades de segurança em mais de 20 idiomas de programação.
