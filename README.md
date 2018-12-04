@@ -27,3 +27,9 @@ Meus aprendizados sobre "Code Review"
 <b>5 - Ferramenta de análise. <em>SonarQube</em></b>
 
     O SonarQube é uma plataforma de código aberto desenvolvida pela SonarSource para inspeção contínua da qualidade do código para realizar revisões automáticas com análise estática de código para detectar bugs, códigos cheirosos e vulnerabilidades de segurança em mais de 20 idiomas de programação.
+    
+    Instalar Docker Container.
+    Carregar imagem do SonarQube
+    # docker pull sonarqube
+    Completar instalações.
+    
