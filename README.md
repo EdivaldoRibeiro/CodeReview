@@ -44,4 +44,4 @@ Meus aprendizados sobre `Code Review`
 - Carregar imagem do SonarQube
     - docker pull sonarqube
     - Completar instalações.
-- Configurar `maven` para alimentar banco de dados do `_SonarQube_`.
+- Configurar `maven` para alimentar banco de dados do **_SonarQube_**.
