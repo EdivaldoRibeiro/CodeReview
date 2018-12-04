@@ -9,7 +9,7 @@ Meus aprendizados sobre `Code Review`
 #### 2 - Todo o time responsável pelo projeto.
 
 - Automatização de trabalhos manuais diminuem falhas humanas.
-- Testes automáticos para garantir que BUGs não sejam implantados.
+- Testes automáticos garante que BUGs não serão implantados em implementações existentes.
 - Rastrear, discutir, resolver situações onde houver "code smell".
     
 #### 3 - Cada colaborador revisar a solução apresentada antes de integrá-lo ao código base.
@@ -23,6 +23,9 @@ Meus aprendizados sobre `Code Review`
 #### 4 - Padronização.
  
 - Projeto JAVA adicionar plugin "checkStyle" garantindo que todo os envolvidos respeite estilo comun de organização.
+- Nome **coerente** para classes, métodos e variáveis.
+- Tamanho **limitado** de linhas dos métodos, dividir classe muito grande em classes menores.
+- Nunca manter código comentado que ficou em desuso.
 
 #### 5 - Ferramenta de análise. _SonarQube_
 
