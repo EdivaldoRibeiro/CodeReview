@@ -18,7 +18,7 @@ Meus aprendizados sobre `Code Review`
 - Criação de soluções alternativas para problemas.
 - Aumento do senso da equipe.
 - Confiança da equipe.
-- Tirar responsabilidade de uma só pessoa, evitar filas individuais de solução.
+- Tirar responsabilidade de uma só pessoa, evitar filas com domínio individual.
 
 #### 4 - Trabalhar/Compartilhar container. (Mundo `docker`)
 
