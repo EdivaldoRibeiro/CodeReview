@@ -20,7 +20,7 @@ Meus aprendizados sobre `Code Review`
 - Confiança da equipe.
 - Tirar responsabilidade de uma só pessoa, evitar filas com domínio individual.
 
-#### 4 - Trabalhar/Compartilhar container. (Mundo `docker`)
+#### 4 - Uso de container. (Mundo `docker`)
 
 - Container específico para autenticação de usuários.
 - Container específico para cada tipo de banco de dados.
@@ -32,7 +32,7 @@ Meus aprendizados sobre `Code Review`
 
 #### 5 - Padronização.
  
-- Projeto JAVA adicionar plugin `checkStyle` garantindo que todos os envolvidos respeitem o estilo adotado na organização.
+- Nos projetos JAVA adicionar plugin `checkStyle` garantindo que toda equipe respeitem o estilo adotado na organização.
 - Nome **coerente** para classes, métodos e variáveis.
 - Tamanho **limitado** de linhas dos métodos, dividir classe muito grande em classes menores.
 - Métodos devem ter no máximo 3 parâmetros.
