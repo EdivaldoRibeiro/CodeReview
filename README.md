@@ -37,6 +37,11 @@ Meus aprendizados sobre `Code Review`
 - Tamanho **limitado** de linhas dos métodos, dividir classe muito grande em classes menores.
 - Métodos devem ter no máximo 3 parâmetros.
 - Nunca manter código comentado que ficou em desuso.
+- Desacoplar para ampliar a modularidade e melhorar o processo de testes.
+- Executar um método Java num contexto transacional de banco de dados sem ter que conhecer ou manipular de forma alguma JTA;
+- Executar um método Java local que acesse um remoto sem ter que conhecer ou manipular de forma alguma RMI, por exemplo;
+- Utilizar-se de mecanismos de gerenciamento sem ter que conhecer ou manipular de forma alguma JMX;
+- Tornar um método Java local em um handler de mensageria sem ter que conhecer ou manipular de forma alguma JMS;
 
 #### 6 - Ferramenta de análise. _SonarQube_
 
