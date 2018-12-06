@@ -27,6 +27,7 @@ Meus aprendizados sobre `Code Review`
 - Container específico para cada webserver afim.
 - Container específico para cada tipo de micro-serviço bem definido.
 - Container específica para determinada regra de negócio.
+- Desacoplar para ampliar a modularidade e melhorar o processo de testes.
 - Garantir bom funcionamento na ligação de todos estas interfaces.
 - Salvar imagens para posteriores instalações.
 
@@ -42,6 +43,7 @@ Meus aprendizados sobre `Code Review`
 - Executar um método Java local que acesse um remoto sem ter que conhecer ou manipular de forma alguma RMI, por exemplo;
 - Utilizar-se de mecanismos de gerenciamento sem ter que conhecer ou manipular de forma alguma JMX;
 - Tornar um método Java local em um handler de mensageria sem ter que conhecer ou manipular de forma alguma JMS;
+- JavaConfig mecanismo que possibilita configurar diretamente nas classes java por meio de metadados na forma de annotations.
 
 #### 6 - Ferramenta de análise. _SonarQube_
 
