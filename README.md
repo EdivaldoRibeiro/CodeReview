@@ -54,3 +54,8 @@ Meus aprendizados sobre `Code Review`
     - docker pull sonarqube
     - Completar instalações.
 - Configurar `maven` para alimentar banco de dados do **_SonarQube_**.
+
+#### 7 - Suporte para novos projetos.
+
+- O site 'http://www.setupmyproject.com' dá suporte para iniciar vários modelos de projetos Java.
+- O site 'https://spring.io/guides' dá suporte para iniciar vários modelos de projetos usando Spring boot.
