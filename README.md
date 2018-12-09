@@ -62,10 +62,10 @@ Meus aprendizados sobre `Code Review`
 
 #### 8 - Meu container do postgresql.
 
--mkdir ~/postgresql
--cd ~/postresql
--docker pull centos/postgresql-96-centos7
--docker run -ti --name postgresql_database -e POSTGRESQL_USER=user -e POSTGRESQL_PASSWORD=pass -e POSTGRESQL_DATABASE=db -p 5432:5432 centos/postgresql-96-centos7
--netstat -anp |grep 5432
--dbeaver 5.2.5
+- mkdir ~/postgresql
+- cd ~/postresql
+- docker pull centos/postgresql-96-centos7
+- docker run -ti --name postgresql_database -e POSTGRESQL_USER=user -e POSTGRESQL_PASSWORD=pass -e POSTGRESQL_DATABASE=db -p 5432:5432 centos/postgresql-96-centos7
+- netstat -anp |grep 5432
+- dbeaver 5.2.5
 
