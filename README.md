@@ -59,3 +59,13 @@ Meus aprendizados sobre `Code Review`
 
 - O site 'http://www.setupmyproject.com' dá suporte para iniciar vários modelos de projetos Java.
 - O site 'https://spring.io/guides' dá suporte para iniciar vários modelos de projetos usando Spring boot.
+
+#### 8 - Meu container do postgresql.
+
+-mkdir ~/postgresql
+-cd ~/postresql
+-docker pull centos/postgresql-96-centos7
+-docker run -ti --name postgresql_database -e POSTGRESQL_USER=user -e POSTGRESQL_PASSWORD=pass -e POSTGRESQL_DATABASE=db -p 5432:5432 centos/postgresql-96-centos7
+-netstat -anp |grep 5432
+-dbeaver 5.2.5
+
